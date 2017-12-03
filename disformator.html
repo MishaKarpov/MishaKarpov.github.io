@@ -111,6 +111,7 @@ word-wrap: normal;
 </select>
 <div class="checkboxLine"><label for="abz">All to one line ?</label> <input type="checkbox" id="abz" name="abz"></div>
 <div class="checkboxLine"><label for="rel">Remove empty lines ?</label> <input type="checkbox" id="rel" name="rel"></div>
+<div class="checkboxLine"><label for="spl">Remove ends split(-) ?</label> <input type="checkbox" id="spl" name="spl"></div>
 <div class="checkboxLine"><label for="rfnc">Remove reference links [0] ?</label> <input type="checkbox" id="rfnc" name="rfnc"></div>
 
 <div id="spec"></div>
@@ -136,7 +137,10 @@ if(newtext=="") {document.getElementById('text').select(); return;}
 var text=document.getElementById("text").value;
 if(text=="") {document.getElementById('text').select(); return;}
 
-if(document.getElementById("abz").checked) document.getElementById("newtext").innerHTML=text;
+if(document.getElementById("abz").checked) 
+{
+if(document.getElementById("spl").checked) { text=text.replace(/-\n/g, ""); text=text.replace(/-\r/g, ""); }
+document.getElementById("newtext").innerHTML=text;}
 else document.getElementById("newtext").innerText=text;
 var newtext=document.getElementById("newtext").innerText
 
@@ -145,6 +149,7 @@ var newtext=document.getElementById("newtext").innerText
 //if(document.getElementById("abz").checked) { newtext=newtext.replace(/\r|\n/g, " "); }
 if(document.getElementById("rel").checked) { newtext=newtext.replace(/\n+/g, "\n"); newtext=newtext.replace(/\r+/g, "\r"); }
 if(document.getElementById("rfnc").checked) { newtext=newtext.replace(/\[\d{1,3}]/g,""); }
+if(document.getElementById("spl").checked) { newtext=newtext.replace(/-\n/g, ""); newtext=newtext.replace(/-\r/g, ""); }
 
 //newtext=newtext.trim();
 

@@ -1,0 +1,210 @@
+#EXTINF:-1,Music BOX
+http://iptv.cn.km.ua:9898/udp/239.0.0.135:4000
+#EXTINF:-1,М1
+http://iptv.cn.km.ua:9898/udp/239.0.0.103:4000
+#EXTINF:-1,М2
+http://iptv.cn.km.ua:9898/udp/239.0.0.107:4000
+#EXTINF:-1,OTV
+http://iptv.cn.km.ua:9898/udp/239.0.0.4:4000
+#EXTINF:-1,EU Music
+http://iptv.cn.km.ua:9898/udp/239.0.0.3:4000
+#EXTINF:-1,Nashe Music HD
+http://iptv.cn.km.ua:9898/udp/233.191.133.201:1234
+#EXTINF:-1,MCM Top
+http://iptv.cn.km.ua:9898/udp/239.0.0.49:4000
+#EXTINF:-1,MTV Hits
+http://iptv.cn.km.ua:9898/udp/239.0.0.205:4000
+#EXTINF:-1,MTV
+http://iptv.cn.km.ua:9898/udp/239.0.0.170:4000
+#EXTINF:-1,MTV Dance
+http://iptv.cn.km.ua:9898/udp/239.0.0.80:4000
+#EXTINF:-1,Europa Plus TV
+http://iptv.cn.km.ua:9898/udp/239.0.0.218:4000
+#EXTINF:-1,VH1
+http://iptv.cn.km.ua:9898/udp/239.0.0.58:4000
+#EXTINF:-1,MTV Rocks
+http://iptv.cn.km.ua:9898/udp/239.0.0.143:4000
+#EXTINF:-1,Музыка Первого
+http://iptv.cn.km.ua:9898/udp/239.0.0.207:4000
+#EXTINF:-1,МузТВ
+http://iptv.cn.km.ua:9898/udp/239.0.1.147:4000
+#EXTINF:-1,ПИК ТВ HD
+http://phone.pik-tv.com/live/piktv3pik3tv/playlist.m3u8
+#EXTINF:-1,RU TV
+http://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8
+#EXTINF:-1,RU TV (Молдова)
+http://217.12.116.122/hls/rutv_direct.m3u8
+#EXTINF:-1,Russian Music Box
+http://musicbox.cdnvideo.ru/musicbox/musicbox.sdp/playlist.m3u8
+#EXTINF:-1,ТНТ Music
+http://cdn-01.bonus-tv.ru:8080/tntmusic/index.m3u8
+#EXTINF:-1,О2 ТВ
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8
+#EXTINF:-1,HITV
+http://rosshow.gcdn.co/rosshow_live/ngrp:hittv_all/chunklist_b3200000.m3u8
+#EXTINF:-1,HardLife
+rtmp://stream2.hardlife.tv/live/hl
+#EXTINF:-1,1Music Channel Hungary
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1,CITY TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
+#EXTINF:-1,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Deluxe Music
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
+#EXTINF:-1,ESKA BEST MUSIC TV
+http://stream.cdn.smcloud.net/best-t/best_720p/playlist.m3u8
+#EXTINF:-1,ESKA PARTY TV
+http://stream.cdn.smcloud.net/eska_party-t/eska_party_720p/playlist.m3u8
+#EXTINF:-1,ESKA ROCK TV
+http://stream.cdn.smcloud.net/eska_rock-t/eska_rock_720p/playlist.m3u8
+#EXTINF:-1,HIPHOPTV
+http://stream.cdn.smcloud.net/hiphoptv-p/stream1/playlist.m3u8
+#EXTINF:-1,HITV
+http://rosshow.gcdn.co/rosshow_live/ngrp:hittv_all/chunklist_b3200000.m3u8
+#EXTINF:-1,Music Vox TV
+http://stream.cdn.smcloud.net/vox2-p/stream1/playlist.m3u8
+#EXTINF:-1,OneBY
+http://rtmp.one.by:1200
+#EXTINF:-1,OneBY HD
+http://rtmp.one.by:1300
+#EXTINF:-1,OneRUS HD
+http://rtmp.one.by:2300
+#EXTINF:-1,Polo PARTY TV
+http://stream.cdn.smcloud.net/polo_party-t/polo_party_720p/playlist.m3u8
+#EXTINF:0,Virgin TV
+rtmp://fms.105.net:1935/live/virgin2
+#EXTINF:0,NRJ HIts
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+#EXTINF:0,105 MUSIC
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:-1,Radio Linea N.1 TV
+http://flash2.streaming.xdevel.com/radiolineatv/radiolineatv/playlist.m3u8
+#EXTINF:-1,Radio Number One TV
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:-1,Radio 51 TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+#EXTINF:-1,Radio Bruno
+http://37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8
+#EXTINF:0,RADIO ITALIA TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1,Relax.TV
+http://wse.planeta-online.tv:1935/live/channel_3/playlist.m3u8
+#EXTINF:-1,(IPMG) Etno HD
+http://iptv.cn.km.ua:9898/udp/233.191.133.202:1234
+#EXTINF:-1,DANCE HD
+rtmp://91.201.78.3:1935/live/dancehd
+#EXTINF:-1,CLASSICS HD
+rtmp://91.201.78.3:1935/live/classicshd
+#EXTINF:-1,MUSIC VOX TV Olds cool
+http://stream.cdn.smcloud.net/vox-t/vox_720p/playlist.m3u8
+#EXTINF:-1,Ля Минор
+http://iptv.cn.km.ua:9898/udp/239.0.0.18:4000
+#EXTINF:-1,VH1 Classic
+http://iptv.cn.km.ua:9898/udp/239.0.0.44:4000
+#EXTINF:-1,Шансон ТВ
+http://iptv.cn.km.ua:9898/udp/239.0.1.184:4000
+#EXTINF:-1,9 Волна
+http://cdn-01.bonus-tv.ru/btv/9volna/type/user/devname/LG-SmartTV/devid/LG-1466490474/eol/20200101T0000/hash/706a3fe43fbf28dbe6f25d303072235c4a94ef86/playlist.m3u8
+#EXTINF:-1,Heart
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,POP HD
+rtmp://91.201.78.3:1935/live/pophd
+#EXTINF:0,Banovina TV === далее несортирован ===
+http://video.radio-banovina.hr:1935/live/myStream/playlist.m3u8
+#EXTINF:0,Top sound TV
+http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/chunklist_w1960175513_b1248000.m3u8
+#EXTINF:0,Duga Plus
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+#EXTINF:0,Power HD
+http://powertv.cdnturk.com/powertv/powertv.smil/playlist.m3u8
+#EXTINF:0,Power Turk HD
+http://powertv.cdnturk.com/powertv/powerturktv.smil/playlist.m3u8
+#EXTINF:0,Nebiset
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:0,XITE BASE
+http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
+#EXTINF:0,XITE POP
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
+#EXTINF:0,KLIPKAR TV
+http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
+#EXTINF:0,Amazing
+http://dcs-188-64-85-40.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
+#EXTINF:0,m2o tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:0,NR1 TV
+http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/master.m3u8
+#EXTINF:0,HIT Music
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:0,AlbMusic TV
+http://188.138.17.8:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:0,AlbMusic TV 2
+http://188.138.17.8:1935/albuk/albuk2.stream/playlist.m3u8
+#EXTINF:0,AlbMusic TV 2
+rtmp://188.138.17.8:1935/albuk/albuk2.stream
+#EXTINF:0,City TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/stream.m3u8
+#EXTINF:0,Kronehit HD
+http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8?version=3#no_vod
+#EXTINF:0,Magic TV
+http://31.13.217.76:1935/magictv/magictv_live.stream/playlist.m3u8
+#EXTINF:0,JAYZEE
+http://77.92.76.135:1935/jayzee/livestream/master.m3u8
+#EXTINF:0,Vibee TV
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:-1,DREAM
+http://live.netd.com.tr/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1,DREAM TURK
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:-1,TRT MUZIK
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:0,ROMA TV BG
+http://185.46.161.3/hls/sd.m3u8
+#EXTINF:0,DSTV MUSIC
+rtmp://46.249.95.140/live/livestream
+#EXTINF:0,Klik TV
+http://92.62.234.201:11234
+#EXTINF:0,Rock One TV
+mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:0,1Music (Mold)
+http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,Med Muzik
+http://178.33.61.33:1936/medmuzik/muzikakurdi/playlist.m3u8
+#EXTINF:0,Visual Radio
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+#EXTINF:0,CMC TV
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:0,ATOMIC TV
+http://5.154.185.153/hls/live.m3u8
+#EXTINF:0,The Voice
+http://31.13.217.76:1935/rtplive/thevoice_live.stream/playlist.m3u8
+#EXTINF:0,INDIES TV
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+#EXTINF:-1,Radio Contact Vision
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
+#EXTINF:-1,RADIO U TV
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv2/playlist.m3u8
+#EXTINF:-1,GD TV
+rtmp://glasdrine.cutuk.net:1935/3ghu788/GlasDrine
+#EXTINF:-1,1Music
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1,4 Music
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8
+#EXTINF:-1,4fun TV
+http://video.popler.tv:1935/publishlive/4funtv/playlist.m3u8
+#EXTINF:-1,Clubbing TV
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/clubbingtv-mobile.3gp.m3u8
+#EXTINF:-1,DFM
+http://tv.artcom-venture.de:1322/dmf/tv_360.m3u8
+#EXTINF:-1,Slagr TV
+http://slagrtv-live-hls.ssl.cdn.cra.cz:80/channels/slagrtv/playlist/cze/live_hq.m3u8
+#EXTINF:-1,GO TV
+http://nstream17.gotv.at:1936/live/gotvlive_576p/playlist.m3u8
+#EXTINF:-1,HIHOP TV
+http://stream.cdn.smcloud.net/hiphoptv-p/stream1/playlist.m3u8
+#EXTINF:-1,Topestrada Music
+http://4.31.30.145:9269
+#EXTINF:-1,TV Istogo
+http://4.31.30.145:9022
+#EXTINF:-1,Code Fashion
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/clubbingtv-mobile.3gp.m3u8

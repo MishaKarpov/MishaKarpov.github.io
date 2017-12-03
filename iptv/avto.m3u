@@ -1,0 +1,30 @@
+#EXTINF:-1,Авто Плюс
+http://iptv.cn.km.ua:9898/udp/239.0.0.137:4000
+#EXTINF:-1,Перший автомобільний
+http://iptv.cn.km.ua:9898/udp/239.0.0.158:4000
+#EXTINF:-1,Авто24
+http://iptv.cn.km.ua:9898/udp/239.0.1.52:4000
+#EXTINF:-1,Мега
+http://iptv.cn.km.ua:9898/udp/239.0.0.127:4000
+#EXTINF:-1,Наука 2.0
+http://iptv.cn.km.ua:9898/udp/239.0.0.40:4000
+#EXTINF:-1,DTX
+http://iptv.cn.km.ua:9898/udp/239.0.0.47:4000
+#EXTINF:-1, Техно 24
+http://77.120.123.2:8081/24techno/index.m3u8?wmsAuthSign=c6VydmVyX3RpSWU9OS8xNC8yMDE2IDU6MDE6NTgg6c53bffadf1e41c6d993111eedd869fbN04vYzhuTSArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,Discovery Science
+http://iptv.cn.km.ua:9898/udp/239.0.0.48:4000
+#EXTINF:-1,Discovery Channel
+http://iptv.cn.km.ua:9898/udp/239.0.0.29:4000
+#EXTINF:-1,Extreme Sports
+http://iptv.cn.km.ua:9898/udp/239.0.0.50:4000
+#EXTINF:-1,Мужской
+http://77.120.123.2:8081/muzhskoj/index.m3u8?wmsAuthSign=c6VydmVyX3RpSWU9OS8xNC8yMDE2IDU6MDE6NTgg0d785562802675929e80f485c82469a6N04vYzhuTSArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,Nat Geo Wild
+http://iptv.cn.km.ua:9898/udp/239.0.0.51:4000
+#EXTINF:-1,National Geographic HD
+http://iptv.cn.km.ua:9898/udp/239.0.1.101:4000
+#EXTINF:-1,History
+http://iptv.cn.km.ua:9898/udp/239.0.1.160:4000
+#EXTINF:-1,Рыбалка и охота
+http://iptv.cn.km.ua:9898/udp/239.0.0.134:4000
