@@ -311,7 +311,7 @@ factory.getNewList = function()
 var min=1+currentPage*itemsPerPage;
 var max=min+itemsPerPage-1;
 isLoading.status=true;
-  $http.get("https://spreadsheets.google.com/feeds/cells/1eRCT45dFEzXur1_ztYR7gaGwzGeYdM1N71qmrOjPEWk/od6/public/values?alt=json&min-col=2&max-col=3&min-row="+min+"&max-row="+max)
+  $http.get("https://spreadsheets.google.com/feeds/cells/1kr0ygrUlG2-WrR9-wEdD7AU92hjIiifeBeFVXG8-qz8/od6/public/values?alt=json&min-col=2&max-col=3&min-row="+min+"&max-row="+max)
       .then(function (response) {
 isLoading.status=false;
 
