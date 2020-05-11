@@ -319,7 +319,7 @@ isLoading.status=false;
 for(var i=0;i<response.data.feed.entry.length;i+=2)
 {
 
-list.push({name: response.data.feed.entry[i].gs$cell.$t, url: response.data.feed.entry[i+1].gs$cell.$t });
+list.push({name: response.data.feed.entry[i].gs$cell.$t, url: response.data.feed.entry[i+1].gs$cell.$t.replace('unsafe:', '') });
 
 }
 
